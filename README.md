@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=008FF7&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem;Front+End+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🎓 Student of Information Technology Education at Brawijaya University<br>🧠 Currently exploring Front-End — React.js , Next.js and Tailwind<br>🤝 Open to collaborating on web projects<br>🌙 Teach by day, Coding and Debugging by night<br>💻 
+🎓 Student of Information Technology Education at Brawijaya University<br>🧠 Currently exploring Front-End — React.js , Next.js and Tailwind<br>🤝 Open to collaborating on web projects<br>🌙 Teach by day, Coding and Debugging by night<br>💻 Contact Me
 
 
 ## 🌐 Socials:
@@ -13,6 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WisnuIbnu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WisnuIbnu&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WisnuIbnu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=WisnuIbnu&icon=0&color=1)](https://visitcount.itsvg.in)
