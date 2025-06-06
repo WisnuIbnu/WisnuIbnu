@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=008FF7&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=121B2E&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem+%E2%9C%8B;Front+End+Developer)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 🎓 Student of Information Technology Education at Brawijaya University<br>🧠 Currently exploring Front-End — React.js , Next.js and Tailwind<br>🤝 Open to collaborating on web projects<br>🌙 Teach by day, Coding and Debugging by night<br>💻 Contact Me
