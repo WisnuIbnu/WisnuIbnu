@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=121B2E&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem+%E2%9C%8B;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=b6450d&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem+%E2%9C%8B;Front+End+Developer)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
