@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=b6450d&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem+%E2%9C%8B;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=b6450d&width=1000&height=60&lines=Hi!+I'm+Wisnu+Ibnu+Muttaqiem+%E2%9C%8B;Software+Engineer;AI+Integration)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
-🎓 Student of Information Technology Education at Brawijaya University<br>🧠 Currently exploring Front-End — React.js , Next.js and Tailwind<br>🤝 Open to collaborating on web projects<br>🌙 Teach by day, Coding and Debugging by night<br>👉 Contact Me : [Portofolio Web](https://wisnuibnu-dev.vercel.app/)
+🎓 Student of Information Technology Education at Brawijaya University<br> Currently exploring Front-End — React.js, Next.js, Tailwind CSS, TypeScript<br> Back-End & Core: Node.js, Go, Python, RESTful API, Background Workers (BullMq), Clean Code Architecture, Scale Architecture<br> Databases & DevOps: MySQL, PostgreSQL, MongoDB, Amazon S3, Redis, Docker, CI/CD (GitHub Actions), Git, GitLab, GitHub<br>🌙 Teach by day, Coding and Debugging by night<br>👉 Contact Me : [Portofolio Web](https://wisnuibnu-dev.vercel.app/)
 
 
 ## 🌐 Socials:
