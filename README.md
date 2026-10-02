@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎓 Student of Information Technology Education at Brawijaya University<br> Currently exploring : <br>Front-End — React.js, Next.js, Tailwind CSS, TypeScript<br>Back-End & Core — Node.js, Go, Python, RESTful API, Background Workers (BullMq), Clean Code Architecture, Scale Architecture<br>Databases & DevOps — MySQL, PostgreSQL, MongoDB, Amazon S3, Redis, Docker, CI/CD (GitHub Actions), Git, GitLab, GitHub<br>🌙 Teach by day, Coding and Debugging by night<br>👉 Contact Me : [Portofolio Web](https://wisnuibnu-dev.vercel.app/)
+🎓 Student of Information Technology Education at Brawijaya University<br> Currently exploring : <br>Front-End: React.js, Next.js, Tailwind CSS, TypeScript<br>Back-End & Core: Node.js, Go, Python, RESTful API, Background Workers (BullMq), Clean Code Architecture, Scale Architecture<br>Databases & DevOps: MySQL, PostgreSQL, MongoDB, Amazon S3, Redis, Docker, CI/CD (GitHub Actions), Git, GitLab, GitHub<br>🌙 Teach by day, Coding and Debugging by night<br>👉 Contact Me : [Portofolio Web](https://wisnuibnu-dev.vercel.app/)
 
 
 ## 🌐 Socials:
